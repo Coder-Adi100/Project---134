@@ -1,0 +1,35 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px black;
+    box-shadow: 1px 15px 5px white;
+}
+body {
+    background-size: cover;
+}
+.button1{
+    background-color: orange;
+    border-radius: 25px;
+    width: 100px;
+}
+.button{
+    background-color: orange;
+    border-radius: 25px;
+    width: 500px;
+}
+#foot{
+    background-color: orange;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+}
+canvas{
+    border: 3px inset;
+    box-shadow: 3px 3px 3px orange;
+
+}
